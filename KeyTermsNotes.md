@@ -1,0 +1,1 @@
+Quadratic time algorithm: O(n^2) "big O of n squared"
